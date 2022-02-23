@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scholasticall discourse demonstrating this conclusion, that ... neither the Pope, nor those called bishops in the church of Romes, are bishops either in order or jurisdiction ... / by R.C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31175</idno>
+            <idno type="STC">Wing C114</idno>
+            <idno type="STC">ESTC R24124</idno>
+            <idno type="EEBO-CITATION">07952159</idno>
+            <idno type="OCLC">ocm 07952159</idno>
+            <idno type="VID">40700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40700)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1200:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scholasticall discourse demonstrating this conclusion, that ... neither the Pope, nor those called bishops in the church of Romes, are bishops either in order or jurisdiction ... / by R.C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[3], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for R. Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 27.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Popes --  Temporal power.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40700:1"/>
+            <pb facs="tcp:40700:1" rendition="simple:additions"/>
+            <p>A SCHOLASTICALL DISCOURSE, Demonſtrating this Concluſion, That (admitting <hi>Eraſtus Senior</hi>'s Reaſons for true) neither the Pope, nor thoſe cal<g ref="char:EOLhyphen"/>led Biſhops in the Church of <hi>Rome,</hi> are Biſhops either in <hi>Order</hi> or <hi>Juriſdiction.</hi>
+            </p>
+            <p>Wherein is anſwered All which is alledged by <hi>Eraſtus Senior</hi> againſt the <hi>Order</hi> and <hi>Juriſdiction</hi> of the Biſhops of the Church of ENGLAND.</p>
+            <p>ALSO A Defence of the <hi>Order</hi> and <hi>Juriſdiction</hi> of the Biſhops in the Church of ENGLAND.</p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>R. Royſton,</hi> Bookſeller to His moſt SACRED MAjESTY. 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:40700:2"/>
+            <pb facs="tcp:40700:2"/>
+            <head>PREFACE to the READER.</head>
+            <p>
+               <seg rend="decorInit">M</seg>En in avoiding <hi>Scylla</hi> uſually fall up<g ref="char:EOLhyphen"/>on <hi>Charybdis.</hi> But the Nation is wiſer, I hope, having avoided the Irreligion &amp; Profaneneſs of the late times, then now to run into Popery; although ma<g ref="char:EOLhyphen"/>ny fear there is more then an ordinary deſigne tending thereunto. To facilitate which, is newly crept abroad a Champion of the Roman-Catho<g ref="char:EOLhyphen"/>lick Cauſe, under the title of <hi>Eraſtus Senior,</hi> who in charity to others, will not allow ſo much charity to our Biſhops in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as to be ſo much as Legal. But if his zeal the Roman Cauſe, or charity to other men, hath ſo far dilated his reaſons, that they conclude as much against the Pope and Biſhops in the Church of <hi>Rome,</hi> as he intended them against ours in the Church of <hi>England;</hi> he ſhall have no great cauſe to triumph, nor his Church much reaſon to thank him, in that he has made himſelf and Church as very Heathens, as he deſigned us of the Church of <hi>England.</hi>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:40700:3"/>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>M. Franck S.T.P. R.D. Ep. Lond. à Sac. Dom.</signed>
+               <dateline>
+                  <date>
+                     <hi>Nov. 27. 1662.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="chapter">
+               <pb n="1" facs="tcp:40700:3"/>
+               <head>
+                  <hi>CHAP. I.</hi> Proving from <hi>Eraſtus Senior</hi>'s Reaſons, that nei<g ref="char:EOLhyphen"/>ther thoſe called <hi>Biſhops</hi> in the Church of <hi>Rome,</hi> nor the <hi>Pope</hi> himſelf, are Biſhops <hi>Ordine.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>O the perfection of all powers, whether Spiritual, Natural, or Legal, theſe two things are ne<g ref="char:EOLhyphen"/>ceſſary, <hi>Jus &amp; Exercitium:</hi> theſe, I think, <hi>Eraſtus Senior</hi> calls <hi>Order,</hi> and <hi>Juriſdicti<g ref="char:EOLhyphen"/>on</hi> or <hi>Office;</hi> the former may be without the latter, nay it muſt be afore the latter can be. Therefore a King muſt be by right or order, before he can rightfully exerciſe any Regal Authority or Power; ſo muſt a Biſhop or Prieſt be by right or order, before he can juſtly exer<g ref="char:EOLhyphen"/>ciſe any Epiſcopal or Sacerdotal Juriſdiction; and ſo Parents, Husbands, Magiſtrates, and
+<pb n="2" facs="tcp:40700:4"/>
+Maſters of Families are endued with a right or power, before they can exerciſe any Juriſ<g ref="char:EOLhyphen"/>diction over their Children, Wives, Fellow-ſubjects, or Servants. That Kings, Husbands, and Parents are endued with a right or pow<g ref="char:EOLhyphen"/>er from the Law of Nature, and Magiſtrates and Maſters of Families from the Municipal Lawes of every place where they do exerciſe them, hath been aſſerted by us elſewhere. That Epiſcopal Order or right is a Divine Inſtitution, and founded by our Saviour, and not by Nature, or any Temporal or Civil Sanction, is affirmed as well by <hi>Eraſtus Senior,</hi> as us of the <hi>Church of England</hi> in the 9. chap. A Biſhop then <hi>Ordine,</hi> or by Right, is he who is ſo made, or ordained by ſuch form and means as our Saviour hath inſtituted, and by no other; unleſs <hi>Eraſtus Senior</hi> will grant another a Divine Power, which is Blaſphemy. A Bi<g ref="char:EOLhyphen"/>ſhop <hi>Juriſdictione,</hi> or by Office, we will call him who is poſſeſs'd of a Biſhoprick. So that <hi>Eraſtus</hi> and I will not differ who is a Biſhop <hi>Ordine,</hi> and who <hi>Juriſdictione.</hi>
+               </p>
+               <p>Ours in the Church of <hi>England</hi> are no Bi<g ref="char:EOLhyphen"/>ſhops <hi>Ordine, Eraſtus Senior</hi> ſayes, becauſe the form of Ordination wants fit words to ſigni<g ref="char:EOLhyphen"/>fie
+<pb n="3" facs="tcp:40700:4"/>
+the Order given. The words are theſe; <hi>Take thou the Holy Ghoſt, and remember that thou stir up the Grace of God which is in thee by Impoſition of Hands: for God hath not given us the ſpirit of fear, but of power, and love, and ſoberneſs.</hi> If this form be inſufficient to the Ordination of Bi<g ref="char:EOLhyphen"/>ſhops in the Church of <hi>England,</hi> then were not the Apoſtles Biſhops by order; for our Saviour uſed no other in their Ordination. Nor were they made Biſhops by theſe or any other Sacramental words (with much confidence,<note place="margin">c. 3. p. 10.</note> and no reaſon) <hi>Eraſtus Senior</hi> ſayes, but onely S. <hi>Peter,</hi> and that by theſe words <hi>(Paſce oves meas.)</hi>
+               </p>
+               <p>What? were none of the Apoſtles Biſhops but onely S. <hi>Peter?</hi> how then, I pray, came the Colledge of Apoſtles (not Saint <hi>Peter</hi>) to chuſe S. <hi>Matthias</hi> to the Biſhoprick of <hi>Judas,</hi> (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) if <hi>Judas</hi> had no Epiſcopal right or order?<note place="margin">Acts 1.20.</note> how came all the Apoſtles (not S. <hi>Peter</hi>) to ordain S. <hi>Stephen,</hi>
+                  <note place="margin">Acts 6.5.</note> and ſix other Dea<g ref="char:EOLhyphen"/>cons? and how is it that S. <hi>Paul</hi> and <hi>Barna<g ref="char:EOLhyphen"/>bas,</hi> and not S. <hi>Peter,</hi>
+                  <note place="margin">Act. 14.23.</note> did ordain Elders in eve<g ref="char:EOLhyphen"/>ry Church; which without all contradiction were acts of Epiſcopal power? Nay, can any man believe,<note place="margin">Acts 8.</note> that when S. <hi>Philip</hi> the Deacon
+<pb n="4" facs="tcp:40700:5"/>
+had converted and baptized <hi>Samaria,</hi> and gi<g ref="char:EOLhyphen"/>ven notice thereof to the Colledge of Apo<g ref="char:EOLhyphen"/>ſtles at <hi>Jeruſalem,</hi> that they, being inferiour Apoſtles, ſhould upon Canonical Record ſend their ſuperiour, and only Biſhop among them, (<hi>viz.</hi> S. <hi>Peter</hi>) to adminiſter their De<g ref="char:EOLhyphen"/>crees, and joyn S. <hi>John</hi> in equal power with him?<note place="margin">Ver. 14.</note> for, ſayes the Text, <hi>They ſent Peter and John to confirm them;</hi>
+                  <note place="margin">Ver. 17.</note> 
+                  <hi>and they laid their hands up<g ref="char:EOLhyphen"/>on them, and they received the holy Ghoſt:</hi> or that S. <hi>Paul</hi> ſhould publickly withſtand S. <hi>Peter</hi> to his face, in that wherein he was to be bla<g ref="char:EOLhyphen"/>med, if he had been any wayes inferiour to him either in Order or Power? for however men may privately adviſe their Superiours, yet no man can without Arrogance and con<g ref="char:EOLhyphen"/>tempt of Authority publickly withſtand his Superiour. Nor had alwayes S. <hi>Peter</hi> the pre<g ref="char:EOLhyphen"/>cedency of name with the other Apoſtles; for we read of <hi>James,</hi>
+                  <note place="margin">Gal. 2.9.</note> 
+                  <hi>Cephas</hi> and <hi>John, which ſeemed, &amp;c.</hi> Nay, S.<note n="*" place="margin">The Lords bro<g ref="char:EOLhyphen"/>ther, B. B. of <hi>Ieruſa<g ref="char:EOLhyphen"/>lem.</hi>
+                  </note> 
+                  <hi>James,</hi> though none of the twelve Apoſtles, did preſide in the Coun<g ref="char:EOLhyphen"/>cil of <hi>Jeruſalem,</hi> although Saint <hi>Peter</hi> and the other Apoſtles were members of it.</p>
+               <p>Well, but if the form by which our <hi>Saviour</hi> did ordain the Apoſtles, did not give them Epi<g ref="char:EOLhyphen"/>ſcopal
+<pb n="5" facs="tcp:40700:5"/>
+order, as <hi>Eraſtus Senior</hi> ſayes, let us ſee whether upon his own grounds <hi>(Paſce oves meas)</hi> could endue S. <hi>Peter</hi> with it. I ſay it could not.</p>
+               <p>For if the form by which our Saviour did ordain his Apoſtles, which was a form of Or<g ref="char:EOLhyphen"/>dination, <hi>viz. Receive the holy Ghoſt,</hi>
+                  <note place="margin">P. 2.</note> 
+                  <hi>&amp;c.</hi> were inſufficient to confer Epiſcopal Order for want of fit words to ſignifie it, as he ſayes; then much leſs can <hi>Paſce oves meas</hi> (which not onely do not ſignifie the order given, but are no form of Ordination at all, but onely im<g ref="char:EOLhyphen"/>perative, and refer to Juriſdiction) confer any upon S. <hi>Peter.</hi> If our Saviour had ordain<g ref="char:EOLhyphen"/>ed S. <hi>Peter</hi> in this ſenſe, it muſt have been by theſe or like words, <hi>Accipe poteſtatem paſcendi oves meas:</hi> and that this is not my ſingle ſenſe, but of <hi>Eraſtus Senior,</hi> he ſayes,<note place="margin">c. 2. p. 9.</note> the ex<g ref="char:EOLhyphen"/>hortation to the Biſhop conſecrated, to be<g ref="char:EOLhyphen"/>have himſelf as a good Paſtor, does not give this Order: and I pray what is the difference between <hi>I exhort thee to be a Paſtor,</hi> and <hi>Feed my ſheep?</hi> He ſayes moreover,<note place="margin">c. 6. p. 28.</note> 
+                  <hi>Be thou a faithfull diſpenſer of the word of God, and his holy Sacraments, do not give any power to this or any other Sacrament, but onely to diſpenſe them; Now to diſpenſe a Sacra<g ref="char:EOLhyphen"/>ment
+<pb n="6" facs="tcp:40700:6"/>
+is not to conſecrate it, for it must be conſecrated before it can be diſpenſed:</hi> by like reaſon cannot <hi>Paſce oves meas</hi> give any Epiſcopal Order to S. <hi>Peter;</hi> for to command to feed is not to conſecrate; and S. <hi>Peter</hi> muſt have a power to feed, before he can be commanded to feed my ſheep.<note place="margin">P. 28.</note> Again he ſayes, <hi>be thou a faithfull diſ<g ref="char:EOLhyphen"/>penſer, &amp;c. give no power, &amp;c. and have thou au<g ref="char:EOLhyphen"/>thority, &amp;c. give no power of Order, but of Juriſdiction;</hi> and therefore <hi>Paſce oves meas</hi> give none, for they onely command, and re<g ref="char:EOLhyphen"/>fer to Juriſdiction, not Order or Conſecra<g ref="char:EOLhyphen"/>tion. The Pope therefore, nor any Biſhop in the Church of <hi>Rome,</hi> are Biſhops <hi>Ordine</hi> from <hi>Paſce oves meas,</hi> nor from the form by which our Saviour ordained the Apoſtles (he ſayes;) and thefore no Biſhops <hi>Ordine,</hi> which was the thing propounded.</p>
+               <p>Well, but ſuppoſe <hi>Paſce oves meas</hi> did endue S. <hi>Peter</hi> with Epiſcopal Order, yet cannot the Pope, nor any Biſhop in the Church of <hi>Rome,</hi> from hence derive it; for being a Divine In<g ref="char:EOLhyphen"/>ſtitution, it cannot be conferred or ordained, but by ſuch means as God did inſtitute and ordain it: but neither the Pope nor any Bi<g ref="char:EOLhyphen"/>ſhops in the Church of <hi>Rome</hi> are conſecrated
+<pb n="7" facs="tcp:40700:6"/>
+or ordained by this form, and therefore are not Biſhops <hi>Ordine</hi> by virtue of it. So then take <hi>(Paſce oves meas)</hi> to be eſſential, or not eſ<g ref="char:EOLhyphen"/>ſential to the conferring of Epiſcopal Order; yet hence cannot the Pope, nor any Biſhops in the Church of <hi>Rome,</hi> derive any Epiſcopal Order.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Aſſerting the Order of Biſhops in the <hi>Church of England.</hi>
+               </head>
+               <p>BUt though <hi>Eraſtus Senior,</hi> out of his chari<g ref="char:EOLhyphen"/>ty to others, hath argued himſelf and party into a Heatheniſh ſtate, and redu<g ref="char:EOLhyphen"/>ced them into the ſame condition he intend<g ref="char:EOLhyphen"/>ed us of the <hi>Church of England</hi> in his Preface; yet will not I grant the form uſed in the Church of <hi>England</hi> to be inſufficient for the conſecra<g ref="char:EOLhyphen"/>ting of Biſhops, of giving Epiſcopal Order: for ſince it is evident the Apoſtles did exerciſe this Order or Power, yet were endued with it by no other form then that uſed in our Church; how much better is it to apply this form, being inſtituted by our Saviour, to one
+<pb n="8" facs="tcp:40700:7"/>
+preſented to the Conſecrators as a Biſhop elect, and after examination and prayers as for a Biſhop elect, and as called to the office of a Biſhop, and after Conſecration, to ex<g ref="char:EOLhyphen"/>hort him as a Paſtor or Biſhop, then to alter it into any other, thereby making it doubtfull whether it be done or not? as if any Creature were wiſer then God, and would dare to mend what God has made. But certainly it is moſt abominably done of <hi>Eraſtus Senior,</hi>
+                  <note place="margin">P. 11.</note> equivocally and cantingly to deny this form of our Saviour, uſed in his Church as well as ours, to be any eſſential part of their form (which I believe no ingenuous man beſides himſelf in his Church will doe:) and to af<g ref="char:EOLhyphen"/>firm that the prayers of <hi>Propitiare, Domine, &amp;c.</hi> anciently called the <hi>Benediction,</hi> and uſed ever ſince S. <hi>Peter</hi>'s time in their Conſecration, <hi>Phyſicè, non moralitèr loquendo,</hi> and no wayes eſ<g ref="char:EOLhyphen"/>ſential to the Conſecration, but of later time altered by his Church, ſhould give that which onely God could do; unleſs he will make himſelf or Church equal to God, to abrogate, or make what God has made a vain thing, and ſet up what himſelf and his party think fit above it, or inſtead of it. If there be any de<g ref="char:EOLhyphen"/>fect
+<pb n="9" facs="tcp:40700:7"/>
+in our Ordination, <hi>Eraſtus</hi> with much more ingenuity might have charged it upon our Saviour for inſtituting it, then upon our Church for imitating it.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Proving that neither the Pope, nor any Biſhop in the Church of <hi>Rome,</hi> granting <hi>Eraſtus Senior</hi>'s Reaſons for true, are Biſhops <hi>Juriſdictione.</hi>
+               </head>
+               <p>
+                  <hi>ERaſtus Senior</hi> ſayes,<note place="margin">P. 3<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> none can give a Ju<g ref="char:EOLhyphen"/>riſdiction which he hath not: hence, he ſayes, it is, that no number of Biſhops can va<g ref="char:EOLhyphen"/>lidly confirm or conſecrate the Biſhop of any Dioceſe, but the Metropolitane of the Pro<g ref="char:EOLhyphen"/>vince muſt be one; nor the Metropolitane of a Province, but the Primate of a Nation; nor the Primate of a Nation, but the Patri<g ref="char:EOLhyphen"/>arch of that part of the World (or ſome per<g ref="char:EOLhyphen"/>ſon having faculty from him:) and in the next page he ſayes, the Biſhop of <hi>Rome</hi> is Pa<g ref="char:EOLhyphen"/>triarch of the Weſt, and the undoubted right<g ref="char:EOLhyphen"/>full Metropolitane to the Primate of this Na<g ref="char:EOLhyphen"/>tion; and therefore no Biſhop can validly confirm or conſecrate the Primate of this Na<g ref="char:EOLhyphen"/>tion, but the Biſhop of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <pb n="10" facs="tcp:40700:8"/>If it be true which <hi>Eraſtus Senior</hi> ſayes, that none can give a Juriſdiction which he hath not, then if he cannot ſhew, in the intervals of the Papacy, ſome who may give this ſu<g ref="char:EOLhyphen"/>preme Patriarchal power, or Headſhip of the Church, to the Pope, then can neither the Pope have it, nor any Primate, Metropoli<g ref="char:EOLhyphen"/>tane, or Biſhop derive any Juriſdiction from him; and by conſequence neither the Pope, nor any Biſhop in the Church of <hi>Rome,</hi> are Biſhops <hi>Juriſdictione.</hi>
+               </p>
+               <p>I ſay, it is impoſsible any ſuch Primacy, as is pretended by <hi>Eraſtus Senior,</hi> can be in the Pope: for admitting that our Saviour did en<g ref="char:EOLhyphen"/>due S. <hi>Peter</hi> with a Primacy above the other Apoſtles, and that he was Biſhop of <hi>Rome,</hi> and the Popes his rightful Succeſſors; yet can<g ref="char:EOLhyphen"/>not this Primacy be transferred to any of them; for <hi>Extraordinaria poteſtas non tranſit in ſucceſſorem.</hi> After S. <hi>Peter</hi>'s death, none of the Apoſtles having this Primacy could give it to another; for, as <hi>Eraſtus</hi> ſayes, <hi>None can give a Juriſdiction to another which he hath not.</hi> The Pope of <hi>Rome</hi> therefore not having this Pri<g ref="char:EOLhyphen"/>macy, no Primate of a Nation can receive Ju<g ref="char:EOLhyphen"/>riſdiction from him, nor the Metropolitane
+<pb n="11" facs="tcp:40700:8"/>
+any from the Primate, nor any Biſhop from the Metropolitane; and therefore from <hi>Era<g ref="char:EOLhyphen"/>ſtus Senior</hi>'s Reaſons, neither the Pope, nor any Biſhop in the Church of <hi>Rome,</hi> are Biſhops <hi>Juriſdictione.</hi>
+               </p>
+               <p>Although at firſt I deſigned no more then to ſhew from <hi>Eraſtus Senior</hi>'s Reaſons, there is neither Order nor Juriſdiction in the Church of <hi>Rome,</hi> and to aſſert the Order and Juriſdi<g ref="char:EOLhyphen"/>ction of our Biſhops in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> yet cannot I but take notice how igno<g ref="char:EOLhyphen"/>rantly (I will ſay no more) he affirms Bi<g ref="char:EOLhyphen"/>ſhops to be conſecrated to their Biſhopricks, and that the Pope was Founder of the See of <hi>Canterbury.</hi>
+               </p>
+               <p>For no Biſhop is conſecrated into his Bi<g ref="char:EOLhyphen"/>ſhoprick, but inveſted or inſtalled; and ori<g ref="char:EOLhyphen"/>ginally Biſhopricks with us in <hi>England</hi> were donative, <hi>per traditionem baculi (i.e.)</hi> the Croſi<g ref="char:EOLhyphen"/>er, which was the Paſtoral ſtaff, <hi>&amp; annuli,</hi> the Ring, whereby he was married to the Church:<note place="margin">Coke com. Lit. <hi>344.</hi> Sect. <hi>648.</hi>
+                  </note> and therefore if the meaneſt Biſhop of Juriſ<g ref="char:EOLhyphen"/>diction in the world be elected to the Papa<g ref="char:EOLhyphen"/>cy, he is no more conſecrated; nay though he be one <hi>ſine titulo,</hi> yet he is never more con<g ref="char:EOLhyphen"/>ſecrated, though made Primate, Patriarch, or Pope.</p>
+               <p>
+                  <pb n="12" facs="tcp:40700:9"/>Well, let us ſee whether the Pope were Founder of the See of <hi>Canterbury,</hi> as <hi>Eraſtus</hi> ſo vainly, and without any authority or reaſon affirmeth. That S. <hi>Paul</hi> did preach the Go<g ref="char:EOLhyphen"/>ſpel here in <hi>England,</hi> is affirmed by <hi>Theod. l.</hi> 9. <hi>de curandis Graecorum affectibus. Paulum è priori captivitate, Roma dimiſſum, Britannis &amp; aliis in oc<g ref="char:EOLhyphen"/>cidente Evangelium praedicaſſe;</hi> and <hi>Nicephorus</hi> ſayes that <hi>Simon Zelotes doctrinam Evangelii ad Occidentalem Oceanum Inſulaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Britannicas perfert.</hi>
+                  <note place="margin">Lib. 2. c. 40.</note> But I do no where find, that ever any Chri<g ref="char:EOLhyphen"/>ſtian Church was planted and endowed in any part of <hi>Britain,</hi> now called <hi>England,</hi> before King <hi>Lucius</hi> his time,<note place="margin">Lib. 1. c. 4.</note> (which <hi>Beda</hi> ſayes was <hi>Anno Chriſti</hi> 156. and in the Reigns of <hi>Marcus Aurelius</hi> and <hi>Lucius Verus,</hi> (yet in the year 156. <hi>Antoninus Pius</hi> reigned,<note place="margin">
+                     <hi>In vita Sancti</hi> Eluth p. 20, 21.</note> and until 160.) when <hi>Pla:</hi> ſayes the 25 Flamens,<note n="*" place="margin">
+                     <hi>In</hi> Lon<g ref="char:EOLhyphen"/>don, York, <hi>and</hi> Carle<g ref="char:EOLhyphen"/>ton.</note> whereof three were Arch-Flamens, were converted into Bi<g ref="char:EOLhyphen"/>ſhopricks and Arch-biſhopricks: ſome ſay the chief and Metropolitane of all was the Arch-biſhoprick of <hi>London.</hi> I ſpeak this to ſhew (if this were ſo) how the Primacy came to be founded in <hi>Canterbury,</hi> and by whom.</p>
+               <p>After the Engliſh <hi>Saxons</hi> had not onely
+<pb n="13" facs="tcp:40700:9"/>
+driven the ancient <hi>Britans</hi> our of that part of <hi>Britain</hi> now called <hi>England,</hi> ſome into that part of <hi>France</hi> called <hi>Britannia Aremorica,</hi> others into <hi>Wales,</hi> (where Chriſtianity continued, when the Engliſh <hi>Saxons</hi> were converted) but alſo the free exerciſe of Chriſtianity; they conti<g ref="char:EOLhyphen"/>nued Pagan till their converſion by S. <hi>Auſtin</hi> and <hi>Miletus,</hi> ſent by S. <hi>Gregory</hi> the Great.</p>
+               <p>But though <hi>Auſtine</hi> was ſent by the Pope, yet did he not upon that miſsion preſume to enter King <hi>Ethelbert</hi>'s Dominions without leave; but in the Iſle of <hi>Thanet</hi> gave the King an account of his Embaſsie, who command<g ref="char:EOLhyphen"/>ed him and his followers to remain in the Iſle, and provided them neceſſaries, till he ſhould ſee convenient how further to diſpoſe of them. After <hi>Auſtin</hi> had declared his meſ<g ref="char:EOLhyphen"/>ſage, he received leave of the King, and went to preach in <hi>Kent,</hi> where the King gave him and his followers dwellings in <hi>Canterbury,</hi> which was the Metropolis of his Empire, and alſo leave to preach. <hi>Bed. Eccleſ. Hiſt. Gent. Ang. cap.</hi> 25. Afterward, before he was made a Biſhop, or had given any account to the Pope, or received any meſſage from him, <hi>cap.</hi> 26. the Content ſayes, <hi>Ut idem (viz. Auguſti<g ref="char:EOLhyphen"/>nus)
+<pb n="14" facs="tcp:40700:10"/>
+in Cantio primitivae Eccleſiae &amp; doctrinam ſit imitatus &amp; vita<g ref="char:cmbAbbrStroke">̄</g>, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> in urbe Regis ſede<g ref="char:cmbAbbrStroke">̄</g> Epiſcopatus acceperit.</hi> How the ſame man <hi>(viz. Auſtin)</hi> in <hi>Kent</hi> imitated the doctrine and life of the Primitive Church, and received his Epiſcopal See in the City of the King. And the Chap. ſayes, <hi>Auſtin</hi> and thoſe joyned with him, upon the King's converſion to the Faith, in all things received a greater liberty to preach, and to build and reſtore Churches. And at the end ſayes, <hi>Neither did the King delay, but gave to his Teachers in the Metropolis of</hi> Canterbury <hi>a See, or place of Seat, agreeable to their degree, and al<g ref="char:EOLhyphen"/>ſo conferred upon it neceſsary proviſions of divers kinds; Nec diſtulit, quin etiam Doctoribus ſuis lo<g ref="char:EOLhyphen"/>cum Sedis, eorum gradui congruum, in Doroverniâ Metropoli ſuâ donaret, ſimul neceſſarias in diver<g ref="char:EOLhyphen"/>ſis ſpeciebus poſſeſsiones conferret.</hi> And it is in the 27. chap. where <hi>Beda</hi> relates how he went in<g ref="char:EOLhyphen"/>to <hi>France</hi> to <hi>Arles,</hi> and there was ordained by <hi>Etherius</hi> Arch-biſhop of that City, Arch-bi<g ref="char:EOLhyphen"/>ſhop: and after he returned into <hi>England,</hi> he preſently ſent to <hi>Rome Laurence</hi> the Prieſt, and <hi>Peter</hi> the Monk, who ſhould give an ac<g ref="char:EOLhyphen"/>count to the holy Biſhop <hi>Gregory,</hi> how the Nation of <hi>England</hi> had received the Faith, and how he was made a Biſhop.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="15" facs="tcp:40700:10"/>
+               <head>
+                  <hi>CHAP. IV.</hi> Shewing the Biſhops in the Church of <hi>England</hi> are Biſhops <hi>Juriſdictione,</hi> viz. are rightfully inve<g ref="char:EOLhyphen"/>ſted and inſtalled in their Biſhopricks, and regu<g ref="char:EOLhyphen"/>larly may exerciſe in their Dioceſes any Epiſcopal Act.</head>
+               <p>I Will not diſpute the power of God in his miraculous propagating of <hi>Chriſtianity</hi> by the means of poor men, and by ſetting of Diſſention and Diſcord in the World, all tem<g ref="char:EOLhyphen"/>poral powers contradicting it: nor is it rea<g ref="char:EOLhyphen"/>ſonable for any man to imagine, that after Chriſtian Faith and Religion is received and planted in any place, that there men ſhould expect that God would continue it by mi<g ref="char:EOLhyphen"/>racle, but that they ought to uſe what means they can to ſupport them: nor can <hi>Eraſtus Senior</hi> by a Biſhop <hi>Juriſdictione,</hi> as of <hi>London,</hi> or <hi>Canterbury,</hi> mean this, but of a planted Chri<g ref="char:EOLhyphen"/>ſtian Church, where the State, as well as Church, is Chriſtian.</p>
+               <p>We, <hi>Eraſtus</hi> and my ſelf, both agree, that the Order of Biſhops is a Divine Inſtitution, and therefore it cannot <hi>ſuſcipere magis aut mi<g ref="char:EOLhyphen"/>nus,</hi>
+                  <pb n="16" facs="tcp:40700:11"/>
+becauſe no leſs power then that which made a thing can alter it; and being a Di<g ref="char:EOLhyphen"/>vine Inſtitution, all Epiſcopal Acts are done, and never to be undone, in one place as much as another: and therefore whereſoever any Biſhop does confirm a man, ordain a Biſhop, Prieſt, or Deacon, or conſecrate any place to the worſhip and ſervice of God, theſe Acts are not onely done, but are indeleble characters, and can never be wiped out. But what pow<g ref="char:EOLhyphen"/>er that is which founds and confines Biſhop<g ref="char:EOLhyphen"/>ricks, and qualifies men ſo, as none but ſuch men can regularly exerciſe any Epiſcopal Act in ſuch limits or precincts, is now to be enquired into.</p>
+               <p>Firſt then, I anſwer negatively, the endow<g ref="char:EOLhyphen"/>ments and limits of a Biſhoprick are not in Spiritual Juriſdiction or cogniſance, for no<g ref="char:EOLhyphen"/>thing is purely Spiritual but what is derived from our Saviour, either immediately, or me<g ref="char:EOLhyphen"/>diately: but the limits and endowments of Biſhopricks are temporal things; and our Saviour ſayes,<note place="margin">Joh. 18.36</note> 
+                  <hi>My Kingdome is not of this world;</hi> and,<note place="margin">Joh. 3.17.</note> 
+                  <hi>God ſent not his Son into the world to judge the world, but that by him he might ſave the world;</hi> and, <note place="margin">Lu. 12.14.</note> 
+                  <hi>O man, who made me a Judge, or Divider among
+<pb n="17" facs="tcp:40700:11"/>
+you?</hi> Nor can it ever be ſhewed wherein Chriſtianity does in any reſpect detract from the Regality of Princes, or temporal Pow<g ref="char:EOLhyphen"/>ers. And as under the Goſpel, ſo under the old Law, though the Prieſthood were a Di<g ref="char:EOLhyphen"/>vine Inſtitution, yet were the Prieſts ſubject to the temporal Powers, and their Cities aſ<g ref="char:EOLhyphen"/>ſigned by temporal Powers.<note place="margin">Exo. 4.16.</note> 
+                  <hi>Moſes</hi> was <hi>in the ſtead of God to Aaron;</hi>
+                  <note place="margin">Joſh. 21.8</note> and <hi>the children of Iſrael gave by lot unto the Levites theſe Cities with their Suburbs, as the Lord commanded by the hand of Moſes. Behold, I will lift up my hand to the Gentiles, and ſet up my standard to the people, &amp;c. and Kings ſhall be thy nurſing fathers,</hi>
+                  <note place="margin">Iſa. 49.22, 23.</note> 
+                  <hi>and their Queens thy nur<g ref="char:EOLhyphen"/>ſing mothers,</hi> ſays the Prophet <hi>Iſaiah.</hi> Yet never after was there any <hi>King</hi> of <hi>Judah,</hi> but <hi>Idolaters;</hi> and the Children of <hi>Iſrael</hi> were then carried into ſo ſtrange a captivity, that to this day is unknown what became of them. This Pro<g ref="char:EOLhyphen"/>phecy then has reference to Chriſtian Kings, &amp; in them it is fulfilled. Chriſtian Kings there<g ref="char:EOLhyphen"/>fore may, and ought to nurſe and indulge God's Church. And if Sacriledge be a ſin, then is Oblation to God a vertue. <hi>Quod datum eſt Eccleſiae, datum eſt Deo.</hi> By our Lawes all Arch-biſhopricks and Biſhopricks within
+<pb n="18" facs="tcp:40700:12"/>
+the Realm of <hi>England,</hi> have been founded by the Kings of <hi>England,</hi> and do hold of the King by Barony, and have been all called by Writ to the Court of Parliament, and are Lords of Parliament; as (among many) take one nota<g ref="char:EOLhyphen"/>ble Record:<note place="margin">Rot. 18. H. 3.</note> 
+                  <hi>Mandatum eſt omnibus Epiſcopis, qui conventuri ſunt apud Gloceſtriam, die Sabbati in cra<g ref="char:EOLhyphen"/>ſtin. Sanctae Katherinae, firmiter inhibendo, quòd ſi<g ref="char:EOLhyphen"/>cut Baronias ſuas, quas de Rege tenent, diligunt, nullo modo preſumant conſilium tenere de aliqui<g ref="char:EOLhyphen"/>bus quae ad Coronam Regis pertinent, vel quae Perſonam Regis, vel statum ſuum, vel ſta<g ref="char:EOLhyphen"/>tum Concilii ſui contingunt; ſcituri pro certo, quòd ſi fecerint, Rex indè ſe capiet ad Baronias ſuas. Teſte Rege apud Hereford.</hi>
+                  <note place="margin">Coke Com. Lit. p. <hi>97.</hi>
+                  </note> 23. <hi>Novemb. &amp;c.</hi> And ſee <hi>Com. Lit.</hi> 344. At firſt all Biſhopricks in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> were of the King's foundation, and do<g ref="char:EOLhyphen"/>nation, <hi>per traditionem baculi &amp; annuli.</hi> King <hi>Henry the firſt</hi> being requeſted to make them elective, refuſed it: but King <hi>John</hi> by his Char<g ref="char:EOLhyphen"/>ter bearing date <hi>Quinto Julii, Anno decimo ſeptimo,</hi> granted that the Biſhopricks ſhould be eli<g ref="char:EOLhyphen"/>gible. So that at firſt all Biſhopricks were not onely of the King's foundation and dona<g ref="char:EOLhyphen"/>tion, but perſons to them are eligible from no other cauſe but the King's Charter. Since
+<pb n="19" facs="tcp:40700:12"/>
+therefore by God's Precept Kings ought to be <hi>nurſing Fathers</hi> to Chriſt's Church, and ſince all Biſhopricks are of the King's foundation, and ſince the perſons of all the King's Subjects are in his dominion and power, or otherwiſe every ſoul ſhould not be ſubject to Higher Powers; it will certainly follow, Biſhops rightfully inveſted and inſtalled in their Bi<g ref="char:EOLhyphen"/>ſhopricks from the King, may regularly exer<g ref="char:EOLhyphen"/>ciſe any Epiſcopal Act in their Dioceſe, and none but ſuch, without apparent diſobedi<g ref="char:EOLhyphen"/>ence and contempt of the Laws of the King, to which they ought to be ſubject.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Anſwering the Reaſons alledged by <hi>Eraſtus</hi> againſt the Juriſdiction of the Biſhops of the Church of <hi>England.</hi>
+               </head>
+               <p>ALthough <hi>Eraſtus Senior</hi> in the firſt Chap. would diſtinguiſh between a Biſhop <hi>Ordine</hi> and <hi>Juriſdictione,</hi> yet in the 9. chap. he does ſo confound different things, as it is impoſsible, without further explaining them, to ſhew wherein <hi>Eraſtus</hi> begs the queſtion, and wherein he is miſtaken.</p>
+               <p>
+                  <pb n="20" facs="tcp:40700:13"/>Things which pertain to the Church are two-fold: either as they are in themſelves purely and ſimply ſpiritual in their Eſ<g ref="char:EOLhyphen"/>ſence; or as they accidentally have reference to the Church, and in themſelves are not purely and ſimply ſpiritual: for example, Blaſphemy, Apoſtaſie from Chriſtianity, He<g ref="char:EOLhyphen"/>reſie, Schiſme, Holy Orders, Admiſsions of Clerks, Celebration of Divine Service, Rights of Matrimony, Divorces, generall Baſtardy, Subſtraction and right of Tithes, Oblations, Obventions, Dilapidations, Ex<g ref="char:EOLhyphen"/>communication, Reparation of Church, Pro<g ref="char:EOLhyphen"/>bate of Teſtaments, Adminiſtrations, and Accounts upon the ſame, Simonie, Inceſts, Fornication, Adultery, Solicitation of Cha<g ref="char:EOLhyphen"/>ſtity, Penſions, Procurations, Appeals in Ec<g ref="char:EOLhyphen"/>cleſiaſtical caſes, Commutation of Penance, are determined here with us by Eccleſiaſtical Judges.</p>
+               <p>So that there is a mix'd Conuſance, or Ec<g ref="char:EOLhyphen"/>cleſiaſtical Judicature, <hi>viz.</hi> of things purely ſpiritual, by which Eccleſiaſtical Judges are impowered to determine, and that by no Hu<g ref="char:EOLhyphen"/>mane Power, but only as they are impowered by our Saviour, and are his Miniſters, <hi>viz.</hi> of
+<pb n="21" facs="tcp:40700:13"/>
+Ordination, Conſecration, Excommunicati<g ref="char:EOLhyphen"/>on, Hereſie, <hi>&amp;c.</hi> and this power the Church and Eccleſiaſtical perſons had, be<g ref="char:EOLhyphen"/>fore ever temporall Powers received the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt, or were converted to Chriſtia<g ref="char:EOLhyphen"/>nity. But after it pleaſed God Kings were converted to Chriſtianity (I do not read, nor ever heard of a State or Common-wealth that ever was) then did Kings cheriſh and defend God's Church, and endued it with many pri<g ref="char:EOLhyphen"/>viledges and immunities, which erewhile was perſecuted by them. It is true, no que<g ref="char:EOLhyphen"/>ſtion, but that originally all Biſhopricks their bounds, and the Diviſion of Pariſhes and their Endowments, the conuſance of Tithes, the Probation of Wills, the granting Letters of Adminiſtration and Accounts up<g ref="char:EOLhyphen"/>on the ſame, the Right of Inſtitution and In<g ref="char:EOLhyphen"/>duction, and Erection of all Eccleſiaſtical Courts, <hi>&amp;c.</hi> were of the Kings foundation and donation; alſo to him by all divine and humane Lawes belongs the care and preſer<g ref="char:EOLhyphen"/>vation of all his Subjects in all caſes, none excepted. And therefore not onely all thoſe things which relate to the extern peace and quiet of the Church, although exerciſed by
+<pb n="22" facs="tcp:40700:14"/>
+Eccleſiaſtical perſons; but all thoſe priviled<g ref="char:EOLhyphen"/>ges and immunities which the Church and Church-men have in a Church planted, which the Apoſtles and primitive Chriſtians, in a Church planting, had not, are all origi<g ref="char:EOLhyphen"/>nally grants of Kings and ſupreme Powers.</p>
+               <p>So that to the Inſtallment of a Biſhop in an endowed Biſhoprick divers things are neceſ<g ref="char:EOLhyphen"/>ſary: <hi>viz.</hi> That he be a Prieſt rightly and tru<g ref="char:EOLhyphen"/>ly ordained, and conſecrated a Biſhop, and this is a pure ſpiritual act: but that he is ele<g ref="char:EOLhyphen"/>cted to the Biſhoprick, confirmed, inveſted &amp; inſtalled in it, are no ſpiritual acts, but found<g ref="char:EOLhyphen"/>ed in the King; however it may be they are executed by Eccleſiaſtical perſons. <hi>Eraſtus Senior</hi> now confounding the creation and in<g ref="char:EOLhyphen"/>ſtitution of a Paſtor,<note place="margin">C. 9. p. 34.</note> (whereas they are diffe<g ref="char:EOLhyphen"/>rent, for to create or conſecrate a Paſtor is a power of the Keyes, but to inſtitute him into a Biſhoprick is a power of the King's) in the ſame thing, not onely begs a falſe queſti<g ref="char:EOLhyphen"/>on, in making it a power of the Keyes, but alſo falſely infers, that the King cannot inſti<g ref="char:EOLhyphen"/>tute a Paſtor to a See or Biſhoprick, which is purely and ſolely in him. And therefore Queen <hi>Elizabeth</hi> might aſsign, conſtitute and
+<pb n="23" facs="tcp:40700:14"/>
+confirm <hi>Matthew Parker</hi> to the See of <hi>Canterbu<g ref="char:EOLhyphen"/>ry,</hi> nor could any but ſhe do it. If ſhe were the rightful Queen of <hi>England,</hi> which <hi>Eraſtus</hi> does not deny, What needs <hi>Eraſtus Senior</hi> now take ſuch pains to prove ten whole Pages to<g ref="char:EOLhyphen"/>gether, that our Biſhops had no right to be confirmed, conſtituted, and aſsigned to their Biſhopricks but from the King, which none will deny him?</p>
+               <p>I cannot but take notice how <hi>Erastus</hi> ha<g ref="char:EOLhyphen"/>ving confounded Conſecration here with In<g ref="char:EOLhyphen"/>ſtitution,<note place="margin">P. 7.3</note> makes confirming and conſe<g ref="char:EOLhyphen"/>crating of an Arch-biſhop or Biſhop to any See, the ſame thing, and purely ſpiritual: whereas to conſecrate an Arch-biſhop or Bi<g ref="char:EOLhyphen"/>ſhop is one thing, and purely ſpiritual; and to confirm an Arch-biſhop or Biſhop in his See is another, and temporal.</p>
+               <p>But I would adviſe <hi>Eraſtus</hi> to have a care leſt he be not ſhent for affirming,<note place="margin">P. 40.</note> that no Biſhop <hi>Ordine</hi> can confirm or conſecrate a Paſtor; for the being ſeized of a Biſhoprick does not validate or invalidate any ſpiritual Act of a Biſhop, as to the eſſence of it: and if <hi>Barlow</hi> and <hi>Scory</hi>'s being ſuſpended the ex<g ref="char:EOLhyphen"/>erciſe of their Juriſdiction in their Biſhop<g ref="char:EOLhyphen"/>ricks
+<pb n="24" facs="tcp:40700:15"/>
+of <hi>Bath</hi> and <hi>Chicheſter,</hi> did invalidate their conſecrating and confirming <hi>Matthew Parker,</hi> becauſe they were not actual Biſhops of Ca<g ref="char:EOLhyphen"/>thedral Churches,<note place="margin">P. 42.</note> as <hi>Eraſtus</hi> ſayes; then do I not ſee how any Act of <hi>Vigilius</hi> the firſt, when he was in exile, and <hi>Rome</hi> in the poſſeſsion of <hi>Totila,</hi> could be valid. Nor could <hi>Boniface</hi> the Eighth, when he was taken priſoner by <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> the Fair, and <hi>Rome</hi> poſſeſſed by him; nor <hi>Clement</hi> 7. when <hi>Charles</hi> 5. had him priſoner, and poſſeſſed <hi>Rome,</hi> conſecrate or confirm any Arch-biſhop or Biſhop; for without doubt they then were not actual Biſhops of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <note place="margin">P. 42.</note>For <hi>Eraſtus Senior</hi>'s Objection, that ſimple Biſhops cannot give a Superiour or Metro<g ref="char:EOLhyphen"/>politane Juriſdiction, is nothing to the pur<g ref="char:EOLhyphen"/>poſe, nor affirmed by us: for though the Order of Biſhops be a Divine Inſtitution, yet the extraordinary exerciſe of a Metropolitane in his Province (being no wiſe purely ſpiritu<g ref="char:EOLhyphen"/>al, but having onely reference to the extern peace of the Church) is not ſo, but from hu<g ref="char:EOLhyphen"/>mane and temporary Laws.</p>
+               <p>I will not undertake to anſwer for all which is literally contained in the <hi>Oath of Su<g ref="char:EOLhyphen"/>premacy,</hi>
+                  <note place="margin">C. 9 p. 32:</note>
+                  <pb n="25" facs="tcp:40700:15"/>
+or charged by <hi>Eraſtus Senior</hi> upon our Church-men taking it, neither is it much to our purpoſe. This I ſay, that Queen <hi>Elizabeth</hi> by her Proclamation, and after by her In<g ref="char:EOLhyphen"/>junctions, did declare, that ſhe took nothing upon her more, then what anciently of right did belong to the Crown of <hi>England,</hi>
+                  <note place="margin">Cam. Eliz. Reg. <hi>39, 40</hi>
+                  </note> 
+                  <hi>viz.</hi> that ſhe had ſupreme Power under God over all ſorts of people within the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whether they be Eccleſiaſtical or Lay perſons, and that no Foraign power hath, or ought to have any Juriſdiction over them: and in this ſenſe every man is allowed to take the <hi>Oath of Supremacy,</hi> and I hope <hi>Eraſtus</hi> will not deny his Soveraign this power.<note n="*" place="margin">See the Admoniti<g ref="char:EOLhyphen"/>on to ſim<g ref="char:EOLhyphen"/>ple men in Q <hi>Eliz.</hi> Injuncti<g ref="char:EOLhyphen"/>ons, as they are ſet out with Dr. <hi>Sparrow</hi>'s Preface, p. 78. C. 11. p. 3<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </p>
+               <p>Nor will I undertake to anſwer for all the acts of Princes, whether they entrench upon the Power of the Keyes, or not: This I ſay, that if Kings do entrench upon this power, yet cannot this annihilate any act thereof, be<g ref="char:EOLhyphen"/>ing rightfully done. And therefore admit King <hi>Jame's</hi> did authorizing other Biſhops of his own, appointing them to doe all acts pertain<g ref="char:EOLhyphen"/>ing to the power and authority of the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury</hi> in cauſes or matters Ec<g ref="char:EOLhyphen"/>cleſiaſtical, as amply, fully, and effectually to
+<pb n="26" facs="tcp:40700:16"/>
+all intents and purpoſes, as the ſaid Arch<g ref="char:EOLhyphen"/>biſhop might have done, (which without all doubt the King might do;) and that the De<g ref="char:EOLhyphen"/>claration of his now Majeſty (whom God grant long to reign over us) <hi>touching affairs of Religion,</hi> in which he deprives all the Arch<g ref="char:EOLhyphen"/>biſhops and Biſhops of this Land (<hi>Eraſtus</hi> ſayes) <hi>of their power of ſole ordaining and cenſuring their Presbyters,</hi> and joyns their Presbyters in Commiſsion with them, as to the acts of Or<g ref="char:EOLhyphen"/>daining and Cenſuring, did entrench upon the Ghoſtly Power; yet could not this any wayes reſcind the Order of any Prieſt or Bi<g ref="char:EOLhyphen"/>ſhop rightfully ordained and conſecrated, but Prieſts and Biſhops rightfully ordained and conſecrated, are as much Prieſts and Biſhops after ſuch acts as before.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="27" facs="tcp:40700:16"/>
+               <head>CONCLUSION.</head>
+               <p>Whether our Biſhops be legal or not, con<g ref="char:EOLhyphen"/>duces not to the Queſtion, whether they be rightfully ordained, for the Order of Biſhops being a Divine Inſtitution, cannot <hi>ſuſcipere majus aut minus,</hi> a Biſhop rightly ordain<g ref="char:EOLhyphen"/>ed is as much a Biſhop, although all tem<g ref="char:EOLhyphen"/>poral powers did contradict it, as if they allowed it. It is loſs of time, therefore, fore, to examine and croſs-examine all the Statutes alledged by <hi>Eraſtus,</hi> whether they al<g ref="char:EOLhyphen"/>low, or not allow, the Order of our Biſhops. And now, let any man judge, whether <hi>Era<g ref="char:EOLhyphen"/>ſtas Senior</hi> has any great reaſon to boaſt, in that his own Reaſons have concluded the Pope and Biſhop of <hi>Rome</hi> to be neither Bi<g ref="char:EOLhyphen"/>ſhops <hi>Ordine,</hi> nor <hi>Juriſdictione:</hi> Neither has he clearly alledged one right Reaſon againſt the Order or Juriſdiction of the Biſhops in the Church of <hi>England;</hi> but onely loſt much time in endeavouring to prove them no Le<g ref="char:EOLhyphen"/>gal Biſhops, which to the eſſence of the Or<g ref="char:EOLhyphen"/>der of a Biſhop is no wayes material.</p>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>ERRATA.</hi> In the Preface, <hi>Line</hi> 12. read <hi>his zeal to.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
